@@ -1,0 +1,6 @@
+Revision history for Perl extension WWW::NewsIsFree.
+
+0.01  Tue Jan  7 11:41:09 2003
+	- original version; created by h2xs 1.21 with options
+		-XA WWW::NewsIsFree
+
